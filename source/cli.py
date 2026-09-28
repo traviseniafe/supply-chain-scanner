@@ -1,3 +1,5 @@
+# Run with python -m source.cli
+
 import argparse
 from dataclasses import asdict
 import json
